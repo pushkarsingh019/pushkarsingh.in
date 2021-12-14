@@ -1,2 +1,5 @@
 # ReadMe  -  This is the readme file for my demo site.
-Hey everyone, Pushkar here, and I am learning web development, this exact code and files are an example of my assignment
+
+## What do I do?
+- A Psychology Major by day, Developer by Night.
+- Youtuber on the weekdays, and Podcaster on the weekends
